@@ -1,4 +1,4 @@
-# Run Buddy, Inc.
+# Run Buddy, Incc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,5 +12,3 @@ https://thorulfr.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Benjamin Holt
-
-### ©️2019 Run Buddy, Inc
