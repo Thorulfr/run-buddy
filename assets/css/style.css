@@ -166,7 +166,7 @@ section {
     padding: 20px;
     width: 40%;
     margin: 3.5%;
-    border: solid 3px var(--secondary-color);
+    border: 3px solid var(--secondary-color);
     bottom: 120px;
     right: 140px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -184,7 +184,7 @@ section {
 }
 
 .form-input {
-    border: 1 px solid #024e76;
+    border: 1px solid var(--secondary-color);
     display: block;
     padding: 7px 15px;
     font-size: 16px;
